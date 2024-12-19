@@ -18,7 +18,8 @@ The pattern array is:
 
 The pattern begins at the second row and the third column of the grid and continues in 
 the following two rows. The pattern is said to be present in the grid. The return value
-should be YES or NO, depending on whether the pattern is found. In this case, return YES.'''
+should be YES or NO, depending on whether the pattern is found. In this case, return YES.
+'''
 
 
 def gridSearch(G, P):
